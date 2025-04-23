@@ -15,6 +15,7 @@ A cross‑platform GUI application built in Rust using [`eframe`](https://crates
 - **File Import:** Import input files in `.evtx`, `.xml`, or `.csv` formats.
 - **Detailed View:** Inspect event details with formatted descriptions and raw XML/JSON.
 - **Multiple Themes:** Included built‑in themes such as Gruvbox, Solarized, Dracula, Nord, and more.
+- **Windows Live Monitoring:** Watch Windows events live with real‑time updates as they occur.
 
 ## 🎬 Demo
 
@@ -24,13 +25,17 @@ A cross‑platform GUI application built in Rust using [`eframe`](https://crates
   <p>Your browser does not support embedded video. <a href="Screen Recording 2025-04-23 at 3.16.18 PM.mov">Download the demo</a>.</p>
 </video>
 
-[Download Demo Video](Demo.mov)
+[Download Demo Video](Demo.mp4)
 
 ## 📸 Screenshots
 
 | Light Theme                                                 | Dark Theme                                                |
-|-------------------------------------------------------------|--------------------------------------------------------------|
-| ![Main Window](light.png)      | ![Details Pane](dark.png)       |
+|-------------------------------------------------------------|-----------------------------------------------------------|
+| ![Main Window](light.png)                                    | ![Details Pane](dark.png)                                 |
+
+### Windows Live Monitoring
+
+![Windows Live Monitor](Windows_Live_Monitoring.png)
 
 ## 🛠️ Prerequisites
 
