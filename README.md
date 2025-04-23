@@ -20,9 +20,9 @@ A cross‑platform GUI application built in Rust using [`eframe`](https://crates
 ## 🎬 Demo
 
 <video controls width="600">
-  <source src="Screen Recording 2025-04-23 at 3.16.18 PM.mov" type="video/mp4">
+  <source src="Demo.mp4" type="video/mp4">
   <!-- Fallback link -->
-  <p>Your browser does not support embedded video. <a href="Screen Recording 2025-04-23 at 3.16.18 PM.mov">Download the demo</a>.</p>
+  <p>Your browser does not support embedded video. <a href="Demo.mp4">Download the demo</a>.</p>
 </video>
 
 [Download Demo Video](Demo.mp4)
